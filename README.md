@@ -1,6 +1,6 @@
 # Weather Trend Forecasting
 
-This project is a comprehensive weather forecasting and climate analysis pipeline built for the **PM Accelerator Technical Assessment**. It leverages global weather data to uncover meaningful trends, detect anomalies, and forecast future temperatures using a combination of statistical and machine learning models.
+This project is a comprehensive weather forecasting and climate analysis pipeline. It leverages global weather data to uncover meaningful trends, detect anomalies, and forecast future temperatures using a combination of statistical and machine learning models.
 
 ##  Objective
 
